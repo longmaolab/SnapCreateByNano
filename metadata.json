@@ -1,0 +1,6 @@
+{
+  "name": "SnapMonster Hatching Ceremony",
+  "description": "An interactive designer testing lab and simulation of the SnapMonster Hatching Ceremony (v2) with procedural egg layers, organic motion, Web Audio sound effects, and server-side Gemini monster card generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
